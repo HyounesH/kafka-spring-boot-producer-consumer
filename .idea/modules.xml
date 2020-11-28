@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-stream-kafka.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-stream-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-kafka-consumer/spring-cloud-stream-kafka-consumer.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-kafka-consumer/spring-cloud-stream-kafka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-stream-kafka-publisher/spring-cloud-stream-kafka-publisher.iml" filepath="$PROJECT_DIR$/spring-cloud-stream-kafka-publisher/spring-cloud-stream-kafka-publisher.iml" />
+    </modules>
+  </component>
+</project>
