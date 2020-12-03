@@ -2,10 +2,10 @@
 
 Apache-Kafka Binary Distribution from  https://kafka.apache.org/downloads.
 
-##### Strat Zookeeper server
+##### Start Zookeeper server
 .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 
-##### Strat Kafka server
+##### Start Kafka server
 .\bin\windows\kafka-server-start.bat .\config\server.properties
 
 ##### Create Topic
